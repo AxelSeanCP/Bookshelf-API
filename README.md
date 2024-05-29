@@ -9,4 +9,4 @@
 6. API can change book data
 7. API can delete books
 
-> detail on the api is on the [api detail]() file
+> detail on the API is on the [API detail]() file
