@@ -1,7 +1,7 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "proyek dicoding backend pemula",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
