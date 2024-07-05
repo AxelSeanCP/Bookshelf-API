@@ -9,4 +9,4 @@
 6. API can change book data
 7. API can delete books
 
-> detail on the API is on the [API detail]() file
+This project use hapi.js as the backend.
